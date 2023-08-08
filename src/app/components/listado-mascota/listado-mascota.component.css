@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    background-color: #666;
+    color:white;
+    text-decoration: underline;
+    padding: 10px;
+}
+
+.container{
+    margin: 2% 15%;
+}
